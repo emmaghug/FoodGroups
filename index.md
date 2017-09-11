@@ -1,12 +1,8 @@
-##FoodGroup
-
-You can use the [editor on GitHub](https://github.com/emmaghug/FoodGroups/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FoodGroup
 
 ### FoodGroups
 
-FoodGroups allows roommates to easily divide the costs of groceries and utilties amoung one another and to transfer funds straight between checking accounts.
+FoodGroups allows roommates to easily divide the costs of groceries and utilties amoung one another and to transfer funds straight between checking accounts. Now you don't have to deal with your roommate mooching off of your food. 
 
 ```markdown
 Syntax highlighted code block
@@ -19,9 +15,10 @@ Syntax highlighted code block
 - View Purchases to see what food you have available
 - Create shared grocery lists 
 - Reuse grocery lists for regular purchases
+- Split bills for ingredients used in homecooked meals
+- Create recipes from currently stocked ingredients 
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -30,7 +27,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmaghug/FoodGroups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
