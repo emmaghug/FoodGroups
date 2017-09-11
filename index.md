@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/emmaghug/FoodGroups/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### FoodGroups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+FoodGroups allows roommates to easily divide the costs of groceries and utilties amoung one another and to transfer funds straight between checking accounts.
 
 ```markdown
 Syntax highlighted code block
