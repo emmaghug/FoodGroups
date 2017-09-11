@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##FoodGroup
 
 You can use the [editor on GitHub](https://github.com/emmaghug/FoodGroups/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Scan Receipts to import purchases
+- View Purchases to see what food you have available
+- Create shared grocery lists 
+- Reuse grocery lists for regular purchases
 
 1. Numbered
 2. List
