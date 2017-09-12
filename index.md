@@ -1,4 +1,4 @@
-FoodGroups allows roommates to easily divide the costs of groceries amoung one another and to transfer funds straight between checking accounts. Now you don't have to deal with your roommate mooching off of your food. 
+FoodGroups allows roommates to easily divide the costs of groceries among one another and to transfer funds straight between checking accounts. Now you don't have to deal with your roommate mooching off of your food. 
 
 
 ## Grocery Shopping Made Simple
